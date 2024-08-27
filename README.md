@@ -1,7 +1,6 @@
 # test2
 
-A new Flutter project.
-
+An interactive Quiz application using Flutter.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
